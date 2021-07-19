@@ -1,0 +1,15 @@
+C:\Users\Bigshadow\source\repos\pruebaDoubleV\Modelo\bin\Debug\net5.0\Modelo.deps.json
+C:\Users\Bigshadow\source\repos\pruebaDoubleV\Modelo\bin\Debug\net5.0\Modelo.runtimeconfig.json
+C:\Users\Bigshadow\source\repos\pruebaDoubleV\Modelo\bin\Debug\net5.0\Modelo.runtimeconfig.dev.json
+C:\Users\Bigshadow\source\repos\pruebaDoubleV\Modelo\bin\Debug\net5.0\Modelo.dll
+C:\Users\Bigshadow\source\repos\pruebaDoubleV\Modelo\bin\Debug\net5.0\ref\Modelo.dll
+C:\Users\Bigshadow\source\repos\pruebaDoubleV\Modelo\bin\Debug\net5.0\Modelo.pdb
+C:\Users\Bigshadow\source\repos\pruebaDoubleV\Modelo\obj\Debug\net5.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bigshadow\source\repos\pruebaDoubleV\Modelo\obj\Debug\net5.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\Bigshadow\source\repos\pruebaDoubleV\Modelo\obj\Debug\net5.0\Modelo.AssemblyInfo.cs
+C:\Users\Bigshadow\source\repos\pruebaDoubleV\Modelo\obj\Debug\net5.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Bigshadow\source\repos\pruebaDoubleV\Modelo\obj\Debug\net5.0\Modelo.dll
+C:\Users\Bigshadow\source\repos\pruebaDoubleV\Modelo\obj\Debug\net5.0\ref\Modelo.dll
+C:\Users\Bigshadow\source\repos\pruebaDoubleV\Modelo\obj\Debug\net5.0\Modelo.pdb
+C:\Users\Bigshadow\source\repos\pruebaDoubleV\Modelo\obj\Debug\net5.0\Modelo.genruntimeconfig.cache
+C:\Users\Bigshadow\source\repos\pruebaDoubleV\Modelo\obj\Debug\net5.0\Modelo.csproj.AssemblyReference.cache

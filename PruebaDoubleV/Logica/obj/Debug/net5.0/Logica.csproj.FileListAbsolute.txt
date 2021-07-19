@@ -1,0 +1,17 @@
+C:\Users\Bigshadow\source\repos\pruebaDoubleV\Logica\bin\Debug\net5.0\Logica.deps.json
+C:\Users\Bigshadow\source\repos\pruebaDoubleV\Logica\bin\Debug\net5.0\Logica.dll
+C:\Users\Bigshadow\source\repos\pruebaDoubleV\Logica\bin\Debug\net5.0\ref\Logica.dll
+C:\Users\Bigshadow\source\repos\pruebaDoubleV\Logica\bin\Debug\net5.0\Logica.pdb
+C:\Users\Bigshadow\source\repos\pruebaDoubleV\Logica\bin\Debug\net5.0\Modelo.dll
+C:\Users\Bigshadow\source\repos\pruebaDoubleV\Logica\bin\Debug\net5.0\Repositorio.dll
+C:\Users\Bigshadow\source\repos\pruebaDoubleV\Logica\bin\Debug\net5.0\Repositorio.pdb
+C:\Users\Bigshadow\source\repos\pruebaDoubleV\Logica\bin\Debug\net5.0\Modelo.pdb
+C:\Users\Bigshadow\source\repos\pruebaDoubleV\Logica\obj\Debug\net5.0\Logica.csproj.AssemblyReference.cache
+C:\Users\Bigshadow\source\repos\pruebaDoubleV\Logica\obj\Debug\net5.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bigshadow\source\repos\pruebaDoubleV\Logica\obj\Debug\net5.0\Logica.AssemblyInfoInputs.cache
+C:\Users\Bigshadow\source\repos\pruebaDoubleV\Logica\obj\Debug\net5.0\Logica.AssemblyInfo.cs
+C:\Users\Bigshadow\source\repos\pruebaDoubleV\Logica\obj\Debug\net5.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Bigshadow\source\repos\pruebaDoubleV\Logica\obj\Debug\net5.0\Logica.csproj.CopyComplete
+C:\Users\Bigshadow\source\repos\pruebaDoubleV\Logica\obj\Debug\net5.0\Logica.dll
+C:\Users\Bigshadow\source\repos\pruebaDoubleV\Logica\obj\Debug\net5.0\ref\Logica.dll
+C:\Users\Bigshadow\source\repos\pruebaDoubleV\Logica\obj\Debug\net5.0\Logica.pdb

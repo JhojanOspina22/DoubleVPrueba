@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Bigshadow\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Bigshadow\\.nuget\\packages"
+    ]
+  }
+}
